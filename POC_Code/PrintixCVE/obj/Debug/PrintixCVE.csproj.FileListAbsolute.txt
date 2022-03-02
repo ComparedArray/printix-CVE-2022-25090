@@ -1,0 +1,7 @@
+C:\Users\Unit Admin\source\repos\PrintixCVE\PrintixCVE\obj\Debug\PrintixCVE.csproj.AssemblyReference.cache
+C:\Users\Unit Admin\source\repos\PrintixCVE\PrintixCVE\obj\Debug\PrintixCVE.csproj.CoreCompileInputs.cache
+C:\Users\Unit Admin\source\repos\PrintixCVE\PrintixCVE\bin\Debug\PrintixCVE.exe.config
+C:\Users\Unit Admin\source\repos\PrintixCVE\PrintixCVE\bin\Debug\PrintixCVE.exe
+C:\Users\Unit Admin\source\repos\PrintixCVE\PrintixCVE\bin\Debug\PrintixCVE.pdb
+C:\Users\Unit Admin\source\repos\PrintixCVE\PrintixCVE\obj\Debug\PrintixCVE.exe
+C:\Users\Unit Admin\source\repos\PrintixCVE\PrintixCVE\obj\Debug\PrintixCVE.pdb
